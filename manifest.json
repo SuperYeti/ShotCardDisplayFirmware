@@ -1,6 +1,14 @@
 {
-  "latest": "0.2.4",
+  "latest": "0.2.5",
   "releases": [
+    {
+      "version": "0.2.5",
+      "date": "2026-01-24",
+      "url": "https://raw.githubusercontent.com/SuperYeti/ShotCardDisplayFirmware/main/firmware/ShotCardDisplay-v0.2.5.bin",
+      "size": 1174848,
+      "sha256": "7359aa43e8015c09991bffb68e9c8d107986834e974afc0d92fa4d0906d396f0",
+      "notes": "Release v0.2.5"
+    },
     {
       "version": "0.2.4",
       "date": "2026-01-21",
