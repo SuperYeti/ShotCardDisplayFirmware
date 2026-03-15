@@ -1,6 +1,14 @@
 {
-  "latest": "1.0.0-beta.19",
+  "latest": "1.0.0-beta.20",
   "releases": [
+    {
+      "version": "1.0.0-beta.20",
+      "date": "2026-03-15",
+      "url": "https://raw.githubusercontent.com/SuperYeti/ShotCardDisplayFirmware/main/jarvis/JarvisMobile-v1.0.0-beta.20.apk",
+      "size": 28267725,
+      "sha256": "be455d33e7d2c5c038012100419ab803a316bb1ba7ab6b57c555dca4ad678507",
+      "notes": "Release v1.0.0-beta.20"
+    },
     {
       "version": "1.0.0-beta.19",
       "date": "2026-03-15",
